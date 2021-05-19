@@ -1,0 +1,22 @@
+.navbar{
+    width: 100%;
+  
+}
+
+.logo{
+    width: 90px;
+    margin-top: 3px;
+}
+
+.container a{
+    margin-left: 55px;
+}
+.collapse{
+
+    text-align: center;
+
+}
+.collapse .menuopciones li  {
+    font-size: 20px;
+
+}
